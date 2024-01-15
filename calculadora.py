@@ -8,3 +8,4 @@ numeros = [2, 5, 7, 5, 9, 12, 20, 18, 19,]
 
 media = average_list(numeros)
 print(f"A media é {media}")
+print(f"SEGUNDO COMMIT")
